@@ -1,3 +1,3 @@
 # mvvm_project
 
-一个MVVM工程
+一个MVVM工程.
